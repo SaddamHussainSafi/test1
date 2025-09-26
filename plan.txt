@@ -1,0 +1,40 @@
+PROJECT PLAN OUTLINE
+
+1. Title Page
+   - Fur and Feathers
+   - Class: CSD230: Advanced Web Development
+   - Team Members:
+	- Ashutosh Mishra
+	- Saddam Hussain Safi
+	- Sandip Khatri
+	- Nimesh Neupane
+
+2. Project Goal
+   - Brief description of the overall objective
+
+3. Roles and Responsibilities
+   - Build a secure and user-friendly platform for pet adoption.
+Provide AI-driven recommendations to match families with the right pets.
+Support shelters, fosters, and rescue groups with digital tools.
+Offer community features for pet care, donations, and sponsorships.
+
+
+4. Project Elements
+   - Breakdown of the project into major components
+   - Optional: Sub-elements or modules
+
+5. Tools, Frameworks, and Libraries
+   - Technologies chosen for development
+
+6. Timeline and Milestones
+   - Estimated schedule for each phase
+   - Key deliverables and deadlines
+
+7. Risk Assessment
+   - Potential challenges or obstacles
+   - Mitigation strategies
+
+8. Communication and Work Plan
+   - How the team will collaborate
+   - Tools for communication
+   - Meeting schedule and reporting structure
