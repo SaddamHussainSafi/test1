@@ -18,15 +18,27 @@ The overall objective of Pet Network is to create a responsive and user-friendly
 
 
 3. Roles and Responsibilities
-   - Build a secure and user-friendly platform for pet adoption.
-Provide AI-driven recommendations to match families with the right pets.
-Support shelters, fosters, and rescue groups with digital tools.
-Offer community features for pet care, donations, and sponsorships.
 
+Saddam Hussain Safi – Team Leader & Front-End Developer
+Oversees project progress, manages GitHub repository, and implements Bootstrap-based responsive UI.
+
+Ashutosh Mishra – Back-End & Database Developer
+Handles server-side logic, potential database setup, and data integration for shelters and pets.
+
+Nimesh Neupane – UI/UX Designer & Documentation Lead
+Designs layouts, applies custom CSS, ensures usability, and manages project documentation.
+
+Sandip Khatri – Testing & Quality Assurance Lead
+Conducts testing, debugging, and ensures responsiveness and quality across devices.
 
 4. Project Elements
-   - Breakdown of the project into major components
-   - Optional: Sub-elements or modules
+
+User Interface: Responsive layout with Bootstrap grid system.
+Navbar & Footer: Navigation with branding and copyright modal.
+Hero Section: Background image with centered text about pet adoption.
+Three-Column Section: Categories (Dogs, Cats, Others) with images, descriptions, and adoption details.
+Modal Pop-Ups: Additional information on adoption or pet profiles.
+Custom CSS Styling: Enhancing Bootstrap design with unique branding.
 
 5. Tools, Frameworks, and Libraries
    - Technologies chosen for development
