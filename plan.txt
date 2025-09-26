@@ -41,11 +41,21 @@ Modal Pop-Ups: Additional information on adoption or pet profiles.
 Custom CSS Styling: Enhancing Bootstrap design with unique branding.
 
 5. Tools, Frameworks, and Libraries
-   - Technologies chosen for development
+
+Front-End: HTML, CSS, Bootstrap, JavaScript
+Version Control: GitHub
+Editor: Visual Studio Code
+Browser Testing: Chrome, Firefox, Edge
+Optional Back-End: Node.js / PHP with MySQL (if required for dynamic data)
 
 6. Timeline and Milestones
-   - Estimated schedule for each phase
-   - Key deliverables and deadlines
+
+Week 1: Establish project goal, set up GitHub repo, assign roles.
+Week 2: Develop Navbar and Hero Section.
+Week 3: Implement Three-Column Section and Footer.
+Week 4: Apply custom CSS, add modals, and refine UI.
+Week 5: Testing, debugging, and documentation.
+Final Week: Submit final project and presentation.
 
 7. Risk Assessment
    - Potential challenges or obstacles
