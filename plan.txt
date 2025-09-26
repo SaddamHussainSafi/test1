@@ -1,16 +1,21 @@
 PROJECT PLAN OUTLINE
 
 1. Title Page
-   - Fur and Feathers
-   - Class: CSD230: Advanced Web Development
-   - Team Members:
-	- Ashutosh Mishra
-	- Saddam Hussain Safi
-	- Sandip Khatri
-	- Nimesh Neupane
+
+Project Name: Pet Network
+Class: CSD230: Advanced Web Development
+
+Team Members:
+
+Ashutosh Mishra
+Saddam Hussain Safi
+Sandip Khatri
+Nimesh Neupane
 
 2. Project Goal
-   - Brief description of the overall objective
+
+The overall objective of Pet Network is to create a responsive and user-friendly platform that connects pet lovers with shelters, fosters, and adoption opportunities. The project aims to promote pet adoption, provide useful resources for pet care, and strengthen community involvement through a modern, accessible web application.
+
 
 3. Roles and Responsibilities
    - Build a secure and user-friendly platform for pet adoption.
